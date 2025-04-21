@@ -1,0 +1,358 @@
+dataset_id,essay_id,essay_text,schemes,sq,schemes_proc
+US2016,CLINTON_27,"actually , I have thought about this quite a bit
+...
+not quite that long
+my husband did a pretty good job in the 1990s
+I think a lot about what worked and how we can make it work again
+...
+a balanced budget
+million new jobs
+...
+Incomes went up for everybody
+ Manufacturing jobs went up also in the 1990s , if we 're actually going to look at the facts
+When I was in the Senate , I had a number of trade deals that came before me
+I held them all to the same test
+Will they create jobs in America ?
+Will they raise incomes in America ?
+are they good for our national security ?","['Example', 'Sign']",[],"['Example', 'Sign']"
+US2016,CLINTON_277,"I support our democracy
+sometimes you win , sometimes you lose
+I certainly will support the outcome of this election
+Donald 's trying very hard to plant doubts about it
+I hope the people out there understandThis election 's really up to you
+It 's not about us so much as it is about you and your families and the kind of country and future you want
+I sure hope you will get out and vote as though your future depended on it
+it does","['PracticalReasoning', 'Consequences']",[],"['PracticalReasoning', 'Consequences']"
+US2016,CLINTON_47,"that is just not accurate
+I was against it once it was finally negotiated and the terms were laid out",['Sign'],[],['Sign']
+rrd,Feedback-Commenter_183,"It is long past time that the airlines treat passengers, their primary source of income, as customers they cherish and not the nuisance we've become.
+It has been said that new fees and penalties will only be passed to the passenger already struggling with higher fares and convenience fees of all kinds.
+Passengers need to remember that the airlines are still a competitive environment.
+If you don't like the fare, go elsewhere or fine some other mode of transportation.
+Southwest has been a shining example of what the legacy airlines should look forward to if they don't treat customers right.
+I've also found plenty of international airlines far more willing to treat me well on those coveted long haul flights
+and have completely refused to fly any American airlines on a long haul out of the country as a result.
+They've lost my business
+and until they lose more, they may never learn.
+They should be allowed to go out of business and let someone else without the legacy problems to have a go at it.
+American consumers deserve better.
+Until then, it's Air France or Lufthansa for me!","['PracticalReasoning', 'Example']",[],"['ERPracticalReasoning', 'ERExample']"
+US2016,HOLT_122,"How do you heal the divide
+The share of Americans who say race relations are bad in this country is the highest it's been in decades
+much of it amplified by shootings of African-Americans by police
+we've seen recently in Charlotte and Tulsa
+Race has been a big issue in this campaign
+one of you is going to have to bridge a very wide and bitter gap","['CauseToEffect', 'Example']",[],"['CauseToEffect', 'Example']"
+US2016,HOLT_159,"for five years , you perpetuated a false claim that the nation 's first black president was not a natural-born citizen
+You questioned his legitimacy
+In the last couple of weeks , you acknowledged what most Americans have accepted for yearsThe president was born in the United States
+Can you tell us what took you so long",['CircumstantialAdHominem'],[],['CircumstantialAdHominem']
+moral_maze_schemes,AB_68,"Indeed.
+ I think there should be a careful balancing act of freedom.
+Liberal societies have often known that the family can be a nexus for forms of unequal opportunity, but we don’t abolish the family.
+For the same reasons we should be very circumspect in the way we intervene in families,
+ if you would like to consider the concept of non domination, freedom as non domination – the non interference on arbitrary grounds in people’s important decisions – then we have to be careful that when we do intervene it’s to increase total non domination.
+Which would mean not interfering simply because people are mad, sad and bad, but because they are imposing domination on their neighbours.",['Analogy'],[],['Analogy']
+rrd,Antanagoge_218,"Prevalence information as reported by the National Institute of Allergy and Infectious Diseases
+http://www.niaid.nih.gov/topics/foodallergy/understanding/pages/quickfacts.aspx:
+Food allergy occurs in 6 to 8 percent of children 4 years of age or under, and in 3.7 percent of adults.
+Allergy to peanuts and tree nuts in the general population is, respectively, 0.6 percent and 0.4 percent, with the rate in children under age 18 (0.8 percent and 0.2 percent) slightly different from adults (0.6 percent and 0.5 percent respectively).
+These two foods are the leading causes of fatal and near fatal foodallergic reactions.
+In spite of attempts to avoid allergenic foods, accidental exposures are the major causes of allergic reactions to foods.
+Over a period of two years, approximately 50 percent of subjects in the United States with food allergy have an allergic reaction to accidental exposure.
+In the United States, there are approximately 30,000 episodes of foodinduced anaphylaxis, associated with 100 to 200 deaths;
+most deaths occur in adolescents and young adults.
+Food allergy is the most frequent single cause of emergency room visits for anaphylaxis and accounts for 34 to 52 percent of these visits.",['ExpertOpinion'],[],['ERExpertOpinion']
+US2016,CLINTON_105,"if he 's paid zero , that means zero for troops , zero for vets , zero for schools or health
+probably he 's not all that enthusiastic about having the rest of our country see what the real reasons are
+...
+the financial disclosure statements , they do n't give you the tax rate
+They do n't give you all the details that tax returns would
+this is something that the American people deserve to see
+I have no reason to believe that he 's ever going to release his tax returns
+there 's something he 's hiding
+we 'll guess
+We 'll keep guessing at what it might be that he 's hiding
+were he ever to get near the White House , what would be those conflicts ?
+Who does he owe money to ?
+he owes you the answers to that
+he should provide them",['VerbalClassification'],[],['VerbalClassification']
+US2016,CLINTON_116,"maybe because you have n't paid any federal income tax for a lot of years
+It would be squandered , too , believe me
+if your main claim to be president of the United States is your business , then I think we should talk about that
+I have met a lot of the people who were stiffed by you and your businesses
+I 've met dishwashers , painters , architects , glass installers , marble installers , drapery installers , like my dad was , who you refused to pay when they finished the work that you asked them to do
+We have an architect in the audience who designed one of your clubhouses at one of your golf courses
+It's a beautiful facility
+It immediately was put to use
+you wouldn't pay what the man needed to be paid, what he was charging you to do",['PopularOpinion'],[],['PopularOpinion']
+US2016,CLINTON_118,"Do the thousands of people that you have stiffed over the course of your business not deserve some kind of apology from someone who has taken their labor, taken the goods that they produced, and then refused to pay them?
+I can only say that I'm certainly relieved that my late father never did business with you
+He provided a good middle-class life for us
+the people he worked for, he expected the bargain to be kept on both sides
+when we talk about your business, you've taken business bankruptcy six times
+There are a lot of great businesspeople that have never taken bankruptcy once
+You call yourself the King of Debt
+You talk about leverage
+You even at one time suggested that you would try to negotiate down the national debt of the United States","['Sign', 'Values', 'Example']",[],"['Sign', 'Values', 'Example']"
+US2016,CLINTON_172,"just listen to what you heard
+clearly , as Donald just admitted , he knew he was going to stand on this debate stage , and Lester Holt was going to be asking us questions
+he tried to put the whole racist birther lie to bed
+it ca n't be dismissed that easily
+He has really started his political activity based on this racist lie that our first black president was not an American citizen
+There was absolutely no evidence for it
+he persisted
+he persisted year after year
+some of his supporters , people that he was trying to bring into his fold , apparently believed it or wanted to believe it
+remember , Donald started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans , and he made sure that the people who worked for him understood that was the policy
+He actually was sued twice by the Justice Department
+he has a long record of engaging in racist behavior
+the birther lie was a very hurtful one
+Barack Obama is a man of great dignity
+I could tell how much it bothered him and annoyed him that this was being touted and used against him
+Barack Obama went high , despite Donald Trump 's best efforts to bring him down","['GenericAdHominem', 'CauseToEffect', 'PopularPractice']",[],"['GenericAdHominem', 'CauseToEffect', 'PopularPractice']"
+moral_maze_schemes,MT_53,"And I think that also though goes back to the state of the economy
+Because the fact is, if living standards aren’t going up what you do is you let people borrow money
+because it keeps them happy
+Because the fundamentals of the economy aren’t generating what you want. But going back to a personal level
+I do believe that as a society we had created a set of social norms and values which protected us from our innate short-termism
+Human beings are not very good at the long-term
+And I think the dismantling of those social norms, and those laws, have made us vulnerable
+And I think this is a classic case for moral paternalism",['CauseToEffect'],[],['CauseToEffect']
+rrd,NMmom_209,"I wish it were imagined
+I have a 9year old with a peanut allergy
+and she has had a reaction on a plane due to peanuts being served.
+The doctor above understands that the peanut allergy is different from most ofter food allergies because in it life threatening.
+I don't understand how not being able to eat peanuts for a few hours out of your life is worth putting another life at risk.",['Example'],[],['ERExample']
+rrd,REBacon_165,"That's ridiculous.
+I agree that there needs to be some compensation for those who use miles.
+Also, airlines' refusal to put people on other airlines' flights has long annoyed me.""
+ < this message is answering to > 
+Vec: ""The rules definitely need to be spelled out as specifically as possible
+and should apply to all airlines
+I don't trust the airlines to develop and enforce their own policy.
+Previous experience with getting bumped off a flight (I was using miles) and the airline refused to put me on another carrier's flight
+instead I had a flight that was six hours later with absolutely no compensation.
+Basically the customer servie rep's attitude was ""It's not my problem and you're using miles so we owe you nothing.""",['PracticalReasoning'],[],['ERPracticalReasoning']
+rrd,howie_230,"So true!
+I see this all the time.
+They try to ban peanuts at school because some over anxious mom saw something on TV about food allergies and that became her kids affliction du jour.
+Peanuts are harmless to 99.99999% of humans.
+The 3 living humans who are actually in danger just need to stay in a bubble and leave the rest of us in peace.",['Example'],[],['ERExample']
+rrd,jccjoin_151,"There is a nonprofit organization called the food allergy network
+foodallergy.org.
+This site will give you some insight into the peanut allergy issue.
+My son now ten years old has a very severe peanut allergy.
+Some of the things most kids take for granted are not available to him
+due to the allergy.
+He cannot go to a professional baseball game for one.
+We also have to plan our vacations the locations that peanut free airlines to.
+The common misconception is ""just don't eat peanuts!""
+It would be nice if it were that simple.
+The confined space and recycling of the air in a plane is a peanut allergy sufferers nightmare.
+When people eat peanuts or open up bags of preanuts some of the allergens are released into the air.
+Therefore the allergic person can be affected without physically eating the peanuts.
+The air becomes toxic to them.
+For my son this is a not just discomfort it could kill him.","['ExpertOpinion', 'Example']",[],"['ERExpertOpinion', 'ERExample']"
+rrd,martinezcs_20,"The buffer zone solution would not give me any confidence.
+The time that my daughter had a reaction it was right after visiting the restroom.
+In a buffer zone situation the person could still be exposed to peanut residue in other parts of the plane (e.g. the restroom door handle, sink faucet, etc).
+Now we carry wipes and wipe down every surface in our seating area and in the restroom when we fly an airline like southwest that serves peanuts on previous flights even if they aren't serving it on ours.",['Example'],[],['Example']
+rrd,pnorton_210,"You have no idea what you are talking about.
+They are not mostly imagined
+and it is a serious issue.
+If you can't survive hours or days without peanuts then that is your problem
+and if you think it is that much of an inconvenience then maybe you should see somebody to deal with your own lack of discipline.""
+ < this message is answering to > 
+howie: ""Has ANYONE ever actually died on a plane from eating peanuts?
+Didn't think so.
+Most food allergies are imagined.
+You clearly have a financial interest in promoting the myth of food allergy.
+If someone is actually that allergic, they should stay home and not inconvenience the rest of us.",['Ad hominem'],[],['ERAdHominem']
+rrd,radamchak_175,"I have a similar problem with errors on your website with MacOS Safari before it is published.
+Once the plane has left the gate as long as it's officially waiting for takeoff, then it appears to me passengers should not be allowed to leave the gate.
+However, I remember times while traveling thru Denver, United would leave the gate, then taxi to the ""penalty box"" waiting for clearances and take off instructions.
+Airlines should not be allowed to leave the gate unless there is a expected takeoff time issued by FAA ATC Clearance Delivery and Ground Control.
+If the expected departure time issued by FAA ATC is over 3 hours then the aircraft should not be allowed to leave the gate.
+However, if an airline has left the gate, and the departure time is extended while waiting for takeoff,  where the total time is greater than three hours on the ground then the airport and airline should get buses out to the aircraft for any passengers that want to deplane.
+As you can see there are mitigating circumstances affecting the airline and aircraft and there are a few organizations involved in the situation..
+these organizations include the airport authority, the FAA ATC ground control and clearance delivery control, and airline pilots.","['PracticalReasoning', 'Example']",[],"['ERPracticalReasoning', 'ERExample']"
+rrd,stone_170,"The only additions to an airfare should be government mandated taxes and fees.
+""Surcharges"" should not be allowed in any case.
+Fuel, for example, is part of the airline's basic cost.
+It should not be an add on to a fare, but part of it.
+If an airline wants to charge more on a certain day, the base fare should include that charge.
+It should never be added on.
+And the proposed rule that the total fare be shown is the only appropriate way to avoid deceptive practices.
+If an airline wishes to inform a customer about the cost of taxes, is should be allowed to list the base fare before taxes in no greater than 1/2 the typeface of the total fare along with the total fare.",['PracticalReasoning'],[],['ERPracticalReasoning']
+rrd,wkemp_142,"Rather than set explicit dollar amounts for compensation, just make it equivalent to or twice the cost of the ticket in question.
+That way, the compensation automatically tracks changes in air fares over time.
+It's also worth noting that when I buy bus, train, or ferry tickets I pay up front and own the ticket
+(i. e., have entered into a contract with the carrier).
+If I miss the train, I lose.
+Why are airline tickets different?
+Why are airlines allowed to oversell flights as a matter of course?",['PracticalReasoning'],[],['ERPracticalReasoning']
+US2016,TRUMP_153,"I will
+the African-American community has been let down by our politicians
+They talk good around election time, like right now
+after the election, they said, see ya later, I'll see you in four years
+African-American community—because—look, the community within the inner cities has been so badly treated
+They've been abused and used in order to get votes by Democrat politicians
+that's what it is
+They've controlled these communities for up to 100 years
+...
+you look at the inner cities
+ just left Detroit, and I just left Philadelphia, and I just—you know, you've seen me, I've been all over the place
+You decided to stay home, and that's OK
+I've been all over
+I've met some of the greatest people I'll ever meet within these communities
+they are very, very upset with what their politicians have told them and what their politicians have done","['Sign', 'CircumstantialAdHominem', 'PositionToKnow']",[],"['Sign', 'CircumstantialAdHominem', 'PositionToKnow']"
+US2016,TRUMP_160,"I 'll tell you very—well , just very simple to say
+Sidney Blumenthal works for the campaign and close—very close friend of Secretary Clinton
+her campaign manager , Patti Doyle , went to—during the campaign , her campaign against President Obama , fought very hard
+you can go look it up , and you can check it out
+if you look at CNN this past week , Patti Solis Doyle was on Wolf Blitzer saying that this happened
+Blumenthal sent McClatchy , highly respected reporter at McClatchy , to Kenya to find out about it
+They were pressing it very hard
+She failed to get the birth certificate
+When I got involved , I did n't fail
+I got him to give the birth certificate
+I 'm satisfied with it
+I 'll tell you why I 'm satisfied with it
+...
+I want to get on to defeating ISIS
+I want to get on to creating jobs
+I want to get on to having a strong border
+I want to get on to things that are very important to me and that are very important to the country","['CauseToEffect', 'PositionToKnow', 'Example', 'Values']",[],"['CauseToEffect', 'PositionToKnow', 'Example', 'Values']"
+US2016,TRUMP_185," I don't
+maybe it was
+it could be Russia
+it could also be China
+It could also be lots of other people
+It also could be somebody sitting on their bed that weighs 400 pounds , OK ?
+You do n't know who broke in to DNC
+what did we learn with DNC ?
+We learned that Bernie Sanders was taken advantage of by your people
+by Debbie Wasserman Schultz
+Look what happened to her
+Bernie Sanders was taken advantage of
+That 's what we learned
+whether that was Russia , whether that was China , whether it was another country , we do n't know
+he truth is , under President Obama we 've lost control of things that we used to have control over
+We came in with the Internet
+we came up with the Internet
+Secretary Clinton and myself would agree very much , when you look at what ISIS is doing with the Internet
+they 're beating us at our own game
+ISIS
+we have to get very , very tough on cyber and cyber warfare
+it is a huge problem
+I have a son
+He 's 10 years old
+He has computers
+He is so good with these computers
+it 's unbelievable
+The security aspect of cyber is very , very tough
+maybe it 's hardly doable
+we are not doing the job we should be doing
+that 's true throughout our whole governmental society
+We have so many things that we have to do better , Lester
+certainly cyber is one of them","['GenericAdHominem', 'Example', 'VerbalClassification', 'Sign']",[],"['GenericAdHominem', 'Example', 'VerbalClassification', 'Sign']"
+US2016,TRUMP_208,"I did not support the war in Iraq
+...
+That is a mainstream media nonsense put out by her
+the best person in her campaign is mainstream media",['Bias'],[],['Bias']
+US2016,TRUMP_214,"The record does not show that
+...
+The record shows that I 'm right
+When I did an interview with Howard Stern , very lightly , first time anyone 's asked me that , I said , very lightly , I do n't know , maybe , who knows
+Essentially
+I then did an interview with Neil Cavuto
+We talked about the economy is more important
+I then spoke to Sean Hannity , which everybody refuses to call Sean Hannity
+I had numerous conversations with Sean Hannity at Fox
+Sean Hannity said—and he called me the other day—and I spoke to him about it—he said you were totally against the war
+he was for the war","['Example', 'VerbalClassification']",[],"['Example', 'VerbalClassification']"
+US2016,TRUMP_218,"And when he—excuse me
+that was before the war started
+Sean Hannity said very strongly to me and other people—he 's willing to say it , but nobody wants to call him . I was against the war
+He said , you used to have fights with me
+Sean was in favor of the war
+I understand that side , also , not very much
+we should have never been there
+nobody called Sean Hannity
+then they did an article in a major magazine , shortly after the war started
+in '04
+they did an article which had me totally against the war in Iraq
+one of your compatriots said , you know , whether it was before or right after , Trump was definitely
+if you read this article , there 's no doubt
+I 'll ask the press—if somebody would call up Sean Hannity , this was before the war started
+He and I used to have arguments about the war
+I said , it 's a terrible and a stupid thing
+it 's a terrible and a stupid thing
+It 's going to destabilize the Middle East
+that 's exactly what it 's done
+It 's been a disaster
+No , no","['Consequences', 'PositionToKnow']",[],"['Consequences', 'PositionToKnow']"
+US2016,CLINTON_136,"implicit bias is a problem for everyone, not just police
+too many of us in our great country jump to conclusions about each other
+we need all of us to be asking hard questions about, you know, why am I feeling this way
+when it comes to policing, since it can have literally fatal consequences
+in my first budget, we would put money into that budget to help us deal with implicit bias by retraining a lot of our police officers
+met with a group of very distinguished, experienced police chiefs a few weeks ago
+They admit it's an issue
+They've got a lot of concerns
+Mental health is one of the biggest concerns
+now police are having to handle a lot of really difficult mental health problems on the street
+They want support, they want more training, they want more assistance
+the federal government could be in a position where we would offer and provide that","['Sign', 'PositionToKnow', 'Bias']",[],"['Sign', 'PositionToKnow', 'Bias']"
+US2016,TRUMP_15,"the first thing you do is do n't let the jobs leave
+The companies are leaving
+I could name
+there are thousands of them
+They 're leaving
+they 're leaving in bigger numbers than ever
+good luck
+We wish you a lot of luck
+if you think you 're going to make your air conditioners or your cars or your cookies or whatever you make and bring them into our country without a tax , you 're wrong
+once you say you 're going to have to tax them coming in
+the special interests want those companies to leave
+ in many cases , they own the companies
+our politicians never do this
+they have special interests
+what I 'm saying is , we can stop them from leaving
+that 's a big , big factor","['Bias', 'FearAppeal', 'VerbalClassification']",[],"['Bias', 'FearAppeal', 'VerbalClassification']"
+moral_maze_schemes,ND_19,"But how can you say that
+when the lenders are actually the banks, that are at the pinnacle of our society?
+And indeed the debts that are owed now, by us as a country, even if not individually, are a result of the fact that the banks have got off Scot free
+There is absolute impunity for lenders at that level.
+...
+But how can you say that?
+the lenders are actually the banks, that are at the pinnacle of our society
+There is absolute impunity for lenders at that level",['CircumstantialAdHominem'],[],['CircumstantialAdHominem']
+moral_maze_schemes,CF_58,"But I think you can be in a situation where you say, “We will let you write off your debts, without incurring moral hazard. But you have to have-”
+...
+Because bankruptcy used to be shameful. And I do think there is something in it
+Otherwise you’ve got slavery.
+I mean, if you get into debt, and you can never get out of it, that’s slavery
+You’ve got to be able to start again.
+ But you start again with some very strict rules and a stigma.
+And being bankrupt wasn’t something – now, kind of, it’s almost as though people won’t take account of the fact they’ve got absolutely no money, and they're in debt, and they don’t want to pay it
+Whereas I do feel a country can even say, “We’re going to go bankrupt. It’s humiliating. We’ll do it. We’ll start again. We’ll grow
+One of my concerns is this demoralisation question
+In this debate it seems to me, and actually the way Mr Cameron posed it, was you got a choice of being mollycoddled at home by your mum and dad, or you demand that you’re sustained by the State.
+Don’t you think that we need to encourage young people to see a third way, an alternative to that?",['NegativeConsequences'],[],['NegativeConsequences']
+moral_maze_schemes,JL_69,"So, if I want a washing machine, I have to go to the launderette every week at the moment and spend several pounds in the launderette.
+But, if I buy the washing machine, on credit, I can have my own washing machine, for pretty much the same amount of money that I'm spending in the launderette
+That seems to me to be beneficial
+It raises living standards
+And this idea of usury has been – well, it’s been fiddled, hasn’t it, over the years?
+Because why did we have money lenders from one religious persuasion unable to lend to their own persuasion, but happily would lend to those of another religious persuasion?
+ I don’t buy that at all
+I think that credit raises living standards
+It’s beneficial to people
+because it allows them to fund today’s purchases out of their future income",['PositiveConsequences'],[],['PositiveConsequences']
+moral_maze_schemes,MP_24,"But why are borrowers doing badly?
+I mean on the one hand interest rates are being kept really low, in order that borrowers won’t bear the consequences of their foolish borrowing
+And then again, not many people have been driven out of the houses on which they can’t afford to maintain their payments
+the banks are so terrified that if they crystallise the debts their balance sheets will be insupportable
+actually, people have run up lots of debt, are paying very low rates of interest, and they’re able to continue to live in houses that they can’t afford to pay for",['NegativeConsequences'],[],['NegativeConsequences']
